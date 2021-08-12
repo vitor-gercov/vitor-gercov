@@ -2,7 +2,7 @@
 
 ## I'm a Student 🤓, Developer 💻, Metalhead 🎸 and Gamer 🎮!!
 
-⌚ I’m currently workin with TypesCript in Angular 11
+⌚ I’m currently working with TypesCript in Angular 11
 
 ### Connect with me:
 [<img align="left" alt="vitor-gercov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,4 +31,4 @@
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/vitor-gobato-gercov
+[linkedin]: https://www.linkedin.com/in/vitor-gobato-gercov-a89474178/
