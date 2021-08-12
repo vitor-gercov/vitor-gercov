@@ -1,6 +1,6 @@
 ## Hi there, I'm Vitor 👋
 
-### I'm a Student 🤓 Developer 💻 Metalhead 🎸 and Gamer 🎮!!
+### I'm a Student 🤓 Developer 💻 Metalhead 🤘 and Gamer 🎮!!
 - ⌚ I'm 21 years old
 - 💻 I’m currently working with Typescript in Angular 11
 - 📖 I'm currently reading about clean code and clean archtecture
@@ -47,3 +47,11 @@
 </div>
   
 ##
+
+  ### I LOVE music and games!!! 😍
+  I also love playing electric guitar 🎸</br>
+  I have some playlists on Spotify and I play a lot of coop games on Steam, check it out my profiles 😉
+  <div>
+    <a href="https://open.spotify.com/user/jh8vub6l8qwb40i0lnxpw0gct" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+    <a href="https://steamcommunity.com/id/therealgercs" target="_blank"><img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
+  </div>
