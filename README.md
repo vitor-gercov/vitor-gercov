@@ -50,7 +50,7 @@ And I can handle myself pretty well with these too 😁
 
   ### I LOVE music and games!!! 😍
   I also love playing electric guitar 🎸</br>
-  I have some playlists on Spotify and I play a lot of coop games on Steam, check it out my profiles 😉
+  I have some playlists on Spotify and I play a lot of coop games on Steam, check out my profiles 😉
   <div>
     <a href="https://open.spotify.com/user/jh8vub6l8qwb40i0lnxpw0gct" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
     <a href="https://steamcommunity.com/id/therealgercs" target="_blank"><img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
