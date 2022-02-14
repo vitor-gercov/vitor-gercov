@@ -3,8 +3,8 @@
 ### I'm a Student 🤓 Developer 💻 Metalhead 🤘 and Gamer 🎮!!
 - ⌚ I'm 21 years old
 - 💻 I’m currently working with Typescript in Angular 11
-- 📖 I'm currently reading about clean code and clean archtecture
-- 📚 I'm currently learning NestJs
+- 📖 I'm currently reading the art of war
+- 📚 I'm currently learning Flutter
 - 🔥 I'm always getting better at everything I do!
 
 ##
