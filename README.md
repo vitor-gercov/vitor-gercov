@@ -44,13 +44,3 @@ And I can handle myself pretty well with these too 😁
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-gercov&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-gercov&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-  
-##
-
-  ### I LOVE music and games!!! 😍
-  I also love playing electric guitar 🎸</br>
-  I have some playlists on Spotify and I play a lot of coop games on Steam, check out my profiles 😉
-  <div>
-    <a href="https://open.spotify.com/user/jh8vub6l8qwb40i0lnxpw0gct" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-    <a href="https://steamcommunity.com/id/therealgercs" target="_blank"><img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-  </div>
