@@ -1,6 +1,6 @@
 ## Hi there, I'm Vitor 👋
 
-### I'm a Student 🤓 Developer 💻 Metalhead 🤘 Baller 🏀 and Gamer 🎮!!
+### I'm a Student 🤓 Developer 💻 Metalhead 🤘 and Gamer 🎮!!
 - ⌚ I'm 22 years old
 - 💻 I’m currently working with Typescript in Angular 11
 - 📚 I'm currently learning Flutter
