@@ -1,8 +1,9 @@
 ## Hi there, I'm Vitor 👋
 
 ### I'm a Developer 💻 Metalhead 🤘 and Gamer 🎮!!
-- ⌚ I'm 22 years old
-- 💻 I’m currently working with Typescript in Angular 12
+- ⌚ I'm 23 years old
+- 💻 I’m currently working with Typescript in Angular 13
+- I'm studying a lot about web and mobile acessibility and interface tests
 
 ##
 
