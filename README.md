@@ -1,9 +1,15 @@
 ## Hi there, I'm Vitor 👋
 
-### I'm a Developer 💻 Metalhead 🤘 and Gamer 🎮!!
+### Some things about me 💻
 - ⌚ I'm 23 years old
 - 💻 I’m currently working with Typescript in Angular 13
-- I'm studying a lot about web and mobile acessibility and interface tests
+
+### What I do in my free time
+- 🎸 play my electric guitar and listen to music (everyday, everytime)
+- 🏋️‍♂️ go to the gym and run to the park in the morning
+- ⛹️‍♂️ watch NBA, NFL and play basketball
+- 🍻 hangout with my friends
+- 🎮 play video-games
 
 ##
 
