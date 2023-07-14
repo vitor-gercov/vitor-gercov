@@ -4,6 +4,11 @@
 - ⌚ I'm 23 years old
 - 💻 I’m currently working with Typescript in Angular 13
 
+## What I am learning now
+- Studying about UX Design
+- Currently learning german
+- Reading and reflecting about Ganbatte
+
 ### What I do in my free time
 - 🎸 play my electric guitar and listen to music (everyday, everytime)
 - 🏋️‍♂️ go to the gym and run to the park in the morning
