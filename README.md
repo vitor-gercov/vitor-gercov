@@ -5,14 +5,12 @@
 - 💻 I’m currently working with Typescript in Angular 13
 
 ## What I am learning now
-- Studying about UX Design
+- Studying about CSS animations
 - Currently learning german
-- Reading and reflecting about Ganbatte
 
 ### What I do in my free time
-- 🎸 play my electric guitar and listen to music (everyday, everytime)
-- 🏋️‍♂️ go to the gym and run to the park in the morning
-- ⛹️‍♂️ watch NBA, NFL and play basketball
+- 🎸 play my electric guitar and listen to music
+- 🏋️‍♂️ go to the gym
 - 🍻 hangout with my friends
 - 🎮 play video-games
 
@@ -23,6 +21,7 @@ I master these 😎
 <div style="display: inline_block"><br>
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="CSS5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
@@ -31,7 +30,6 @@ And I can handle myself pretty well with these too 😁
 <div style="display: inline_block"><br>
   <img align="center" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="CSS5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
