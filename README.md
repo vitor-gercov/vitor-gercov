@@ -2,10 +2,10 @@
 
 ### Some things about me 💻
 - ⌚ I'm 23 years old
-- 💻 I’m currently working with Typescript in Angular 13
+- 💻 I’m currently working with Typescript in Angular 13 and 15
 
 ## What I am learning now
-- Studying about CSS animations
+- Studying about CSS medias and containers
 - Currently learning german
 
 ### What I do in my free time
