@@ -1,12 +1,11 @@
 ## Hi there, I'm Vitor 👋
 
 ### Some things about me 💻
-- ⌚ I'm 23 years old
+- ⌚ I'm 24 years old
 - 💻 I’m currently working with Typescript in Angular 13 and 15
 
 ## What I am learning now
 - Studying about CSS medias and containers
-- Currently learning german
 
 ### What I do in my free time
 - 🎸 play my electric guitar and listen to music
