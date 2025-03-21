@@ -1,7 +1,7 @@
 ## Hi there, I'm Vitor 👋
 
 ### Some things about me 💻
-- ⌚ I'm 24 years old
+- ⌚ I'm 25 years old
 - 💻 I’m currently working with Typescript in Angular 15
 
 ## What I am learning now
